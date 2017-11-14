@@ -2,7 +2,7 @@ hello everyone, this is a new day, we open a new door!
 contributor: wangxu leikai muliang zhuangwanhua xujie wangqingming kangchen
 贡献者：前端（雷凯，王清明，高兆培），Android（王旭），PHP（ 慕亮，徐杰，康琛, 庄万华）
 
-<h1>临时活动</h1>
+##临时活动##
 哈喽，下午好哦，【北京户外网】近期推出新的户外活动，不忙时候可以看一下哦
 国内长线活动链接，报名咨询18611197590小武
 【秋季活动】
@@ -10,7 +10,7 @@ contributor: wangxu leikai muliang zhuangwanhua xujie wangqingming kangchen
 报名点击:http://t.cn/RWINhmZ
 【冬季活动】
 祖国最北部-漠河深度4日游
- 报名点击:<a href="http://t.cn/RWI9oya"></a>
+ 报名点击:http://t.cn/RWI9oya
 哈尔滨-雪乡-雪谷-可代订火车票4日 
 报名点击:http://t.cn/RWICZM9
 雪乡~镜泊湖~雾凇岛~长白山~亚布力滑雪休闲纯玩7日游
