@@ -1,6 +1,8 @@
 hello everyone, this is a new day, we open a new door!
 contributor: wangxu leikai muliang zhuangwanhua xujie wangqingming kangchen
 贡献者：前端（雷凯，王清明，高兆培），Android（王旭），PHP（ 慕亮，徐杰，康琛, 庄万华）
+
+<h1>临时活动</h1>
 哈喽，下午好哦，【北京户外网】近期推出新的户外活动，不忙时候可以看一下哦
 国内长线活动链接，报名咨询18611197590小武
 【秋季活动】
