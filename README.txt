@@ -10,7 +10,7 @@ contributor: wangxu leikai muliang zhuangwanhua xujie wangqingming kangchen
 报名点击:http://t.cn/RWINhmZ
 【冬季活动】
 祖国最北部-漠河深度4日游
- 报名点击:<a hrer="http://t.cn/RWI9oya"></a>
+ 报名点击:<a href="http://t.cn/RWI9oya"></a>
 哈尔滨-雪乡-雪谷-可代订火车票4日 
 报名点击:http://t.cn/RWICZM9
 雪乡~镜泊湖~雾凇岛~长白山~亚布力滑雪休闲纯玩7日游
